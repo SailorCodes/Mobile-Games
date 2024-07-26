@@ -15,7 +15,7 @@
 
 ## Carrot Collector
 
-### Joyistik ile haraket ettiğiniz ve haritadaki havuçları topladığınız bir oyun
+### Joystick ile haraket ettiğiniz ve haritadaki havuçları topladığınız bir oyun
 ![image](https://github.com/user-attachments/assets/28231e73-d592-4832-be25-aa62f48ad3a1)
 ![image](https://github.com/user-attachments/assets/ad0a2cea-5f7b-44a8-bc99-82ba87727d30)
 
